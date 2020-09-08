@@ -1,0 +1,3 @@
+{
+  "mongoURL": "mongodb+srv://arissa:<password>@namecardholder.hb65c.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
