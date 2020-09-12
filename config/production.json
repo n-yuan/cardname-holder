@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://arissa:arissa@namecardholder.hb65c.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
